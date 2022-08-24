@@ -12,6 +12,7 @@ for element in string_name:
 
 
 print('hello, test for git')
+print('hello, test for git XXXXXX')
 
 print(''.join(l1))
     
