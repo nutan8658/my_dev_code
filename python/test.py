@@ -11,5 +11,7 @@ for element in string_name:
         l1.append(element)
 
 
+print('hello, test for git')
+
 print(''.join(l1))
     
